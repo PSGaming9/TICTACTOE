@@ -1,3 +1,3 @@
-# TICTAC
-TIC TAC unity
+# TICTACTOE
+TIC TAC TOE unity by PsGamning Studio
 ![](TICTAC.png)
